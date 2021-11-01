@@ -5,6 +5,7 @@
   "dependencies": {
     "@react-spring/three": "^9.3.0",
     "@react-spring/web": "^9.3.0",
+    "@react-three/drei": "^7.19.6",
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^12.1.2",
     "@testing-library/user-event": "^13.5.0",
